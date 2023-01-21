@@ -7,8 +7,6 @@ set(entry src/main.cpp)
 set(CMAKE_REQUIRED_LINK_OPTIONS "x86_x64")
 set(CMAKE_OSX_ARCHITECTURES "x86_64")
 
-message(STATUS "use c++20")
-
 add_library(${PROJECT_NAME} SHARED ${entry})
 
 set_property(TARGET ${PROJECT_NAME} PROPERTY OUTPUT_NAME "roblox-print-mac")
