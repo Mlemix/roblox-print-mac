@@ -12,5 +12,5 @@ sudo DYLD_INSERT_LIBRARIES="/path/to/roblox-print-mac.dylib" /path/to/RobloxPlay
 
 thanks to seizure salad for telling me how mac works
 
-windows version: https://github.com/Mlemix/roblox-print
+windows version: https://github.com/Mlemix/roblox-print<br/>
 windows rust version: https://github.com/Mlemix/rust-roblox-print
