@@ -10,6 +10,7 @@ codesign --remove-signature /path/to/RobloxPlayer
 sudo DYLD_INSERT_LIBRARIES="/path/to/roblox-print-mac.dylib" /path/to/RobloxPlayer
 ```
 
+this was written and tested on a 2022 macbook air running MacOS Ventura 13.0.1<br/>
 thanks to seizure salad for telling me how mac works
 
 windows version: https://github.com/Mlemix/roblox-print<br/>
